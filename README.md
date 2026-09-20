@@ -1,39 +1,42 @@
 # Hi 👋 I'm Saravana
 
-### 💻 Student Developer | 🎬 Video Editor
+### 💻 Full Stack Developer | 🤖 AI/ML | 🎬 Video Editor
 
 Welcome to my GitHub profile! 🚀
 
-I'm a student developer passionate about learning technology, building projects, and turning creative ideas into reality.
+I'm a passionate developer interested in **Full Stack Development, Artificial Intelligence & Machine Learning**, and **Video Editing**. I enjoy building real-world projects, exploring new technologies, and turning creative ideas into practical solutions.
 
 ### 🚀 What I'm Doing
 
-- 💻 Learning programming and software development
-- 🌱 Building real-world coding projects
-- 🎬 Creating and editing videos
-- 🧠 Exploring new technologies
-- 🚀 Improving my skills every day
+* 💻 Building full-stack web applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 🌐 Developing modern and responsive web experiences
+* 🎬 Creating and editing videos
+* 🧠 Learning and experimenting with new technologies
+* 🚀 Improving my development skills through real-world projects
 
 ### 🛠️ Skills & Interests
 
-- Programming
-- Web Development
-- Software Development
-- Video Editing
-- Creative Design
-- Problem Solving
+* Full Stack Development
+* Artificial Intelligence & Machine Learning
+* Web Development
+* Software Development
+* Video Editing
+* Creative Design
+* Problem Solving
 
 ### 📌 My Goal
 
-To become a skilled developer and creative professional by continuously learning, building, and creating.
+To become a skilled **Full Stack Developer & AI/ML professional** by continuously learning, building real-world projects, and combining technology with creativity.
 
 ---
 
 ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Creating 🚀**
+
 <!--
-**saravanaperumal2548-cell/saravanaperumal2548-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saravanaperumal2548-cell/saravanaperumal2548-cell** is a ✨ _special_ ✨ repository because its `README.md` file appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
